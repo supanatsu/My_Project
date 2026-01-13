@@ -32,7 +32,6 @@ To address the business challenge of providing personalized activity recommendat
 
 ### **🛠️ Technical Stack**
 Python, Scikit-learn (implied), **Cosine Similarity**, Data Modeling.
-<p align="right">[Code / Notebook Link Here]</p>
 
 ---
 
@@ -50,7 +49,6 @@ To create a centralized and reliable source of truth for sales data for 'Dairy K
 
 ### **🛠️ Technical Stack**
 Data Warehousing, **Star Schema**, **ETL Process**, Data Modeling, Metabase (or Power BI/Tableau principles).
-<p align="right">[Code / Notebook Link Here]</p>
 
 ---
 
@@ -68,7 +66,6 @@ To analyze customer ordering behavior (Pizza ALOYS dataset) and transform raw da
 
 ### **🛠️ Technical Stack**
 Data Visualization (Tableau/Power BI Principles), Dashboard Development, Business Insight Generation, Sales Analysis.
-<p align="right">[Code / Notebook Link Here]</p>
 
 ---
 
@@ -86,7 +83,6 @@ To apply unsupervised learning techniques for effective user segmentation based 
 
 ### **🛠️ Technical Stack**
 Python, **Hierarchical Clustering (Agglomerative)**, **joblib** (Model Persistence), Unsupervised ML.
-<p align="right">[Code / Notebook Link Here]</p>
 
 ---
 
@@ -97,4 +93,4 @@ Python, **Hierarchical Clustering (Agglomerative)**, **joblib** (Model Persisten
     * *Recognized for participation and receiving an award for **Innovative Idea Presentation** (KMUTT, Jan 2023).*
 
 ### **Contact**
-Supanat Chantarasaka | **Email:** supanatt04@gmail.ac.th | **LinkedIn:** [Your LinkedIn URL]
+Supanat Chantarasaka | **Email:** supanatt04@gmail.ac.th
